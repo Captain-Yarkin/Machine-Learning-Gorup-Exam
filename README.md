@@ -1,1 +1,1 @@
-# Machine-Learning-Gorup-Exam
+# Machine-Learning-Group-Exam
